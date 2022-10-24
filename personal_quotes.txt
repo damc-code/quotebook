@@ -2,5 +2,10 @@ Strength through Struggle
 -- Michael Choi
 
 
-I like blue 
+<<<<<<< HEAD
+I like yellow 
 -- Diego
+=======
+Live long and prosper 
+-- Spock
+>>>>>>> personal_quotes
